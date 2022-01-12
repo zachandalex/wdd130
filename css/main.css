@@ -5,6 +5,10 @@ body {
     color: black;
 }
 
+nav {
+    margin: auto
+}
+
 h1 {
     font-size: 3rem;
     color: yellowgreen;
